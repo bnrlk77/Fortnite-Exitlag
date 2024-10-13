@@ -9,6 +9,3 @@
 
 # Licensed
 MIT LICENSE
-
-# PASS 
-pass - **Octari1846**
